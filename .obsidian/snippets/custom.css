@@ -1,0 +1,11 @@
+/* Reduce padding for the note content */
+.markdown-preview-view {
+  padding-left: 10px; /* Adjust the value as needed */
+  padding-right: 10px; /* Adjust the value as needed */
+}
+
+/* For editor view */
+.markdown-source-view {
+  padding-left: 10px; /* Adjust the value as needed */
+  padding-right: 10px; /* Adjust the value as needed */
+}
