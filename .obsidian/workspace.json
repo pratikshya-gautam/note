@@ -159,19 +159,9 @@
               "icon": "lucide-list",
               "title": "Outline of Terminal"
             }
-          },
-          {
-            "id": "d766773e0f55c0e6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,7 +176,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "git-integration:Open git menu": false
     }
   },
   "active": "140393f7bb5b9772",
