@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "512c3d78a73570cd",
+        "id": "f6e5f4017fde7d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "2b837bda087a135f",
+            "id": "e750889ae2854de0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Preposition/German Preposition.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "German Preposition"
             }
           }
         ]
@@ -146,23 +145,14 @@
               "icon": "lucide-list",
               "title": "Outline of Terminal"
             }
-          },
-          {
-            "id": "d766773e0f55c0e6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +162,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "git-integration:Open git menu": false
     }
   },
-  "active": "2b837bda087a135f",
+  "active": "e750889ae2854de0",
   "lastOpenFiles": [
     "Preposition/German Preposition.md",
     "Vocab/GERMANS WORDS (DUOLINGO) 1.md",
