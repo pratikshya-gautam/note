@@ -1,27 +1,13 @@
-### UNIT 21
-leer= empty
-zimlich= fairly
-beine= legs
-wiese= field
-pilze= mushrooms
-zwiebeln= onions
-gegrill= grill
-vegetarierin= vegetarian
-fest= festival, party
-ganz= really, all, absolutely
-auf= at, on to, on top of
-leute= people
-sagst= saying
-gekauft= buy
-flohmarkrt= flea market
-voll= crowded
-rollschuhe= roller skates
-bierkrug= beer mug
-leider= unfortunately
-gekostet= cost
-mantel= coat
-gurkensalat= cucumber salad
-schürze= apron
-frühstück= breakfast
-vergessen= forget
-
+### UNIT 23
+mietwage= rental car
+boot= boat
+genf= geneva
+heiß= hot
+gegangen= went, walked, attended
+gefahren= travel, ridden
+see= lake
+geschwommen= swim
+natur= nature
+meistens= usually
+flugzeug= plane
+durch= through, across, withniemand= nobody
